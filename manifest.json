@@ -1,0 +1,24 @@
+{
+    "format_version": 1,
+    "header": {
+        "name": "vanilla",
+        "uuid": "cdb8b1eef642-11e9-802a-5aa538984bd8",
+        "version": [
+            1,
+            0,
+            0
+        ]
+    },
+    "modules": [
+        {
+            "type": "skin_pack",
+            "uuid": "cdb8b1eef642-11e9-802a-5aa538984bd8",
+            "note": "you can generate a uuid on the website https://www.uuidgenerator.net/version4",
+            "version": [
+                1,
+                0,
+                0
+            ]
+        }
+    ]
+}
